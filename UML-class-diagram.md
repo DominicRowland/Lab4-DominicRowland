@@ -1,4 +1,4 @@
-a# UML Class Diagram - Animal Hierarchy
+# UML Class Diagram - Animal Hierarchy
 
 ```mermaid
 classDiagram
